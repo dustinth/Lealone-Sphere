@@ -10,6 +10,7 @@ import org.lealone.main.Lealone;
 public class LealoneSphereStart {
 
     public static void main(String[] args) {
+        System.setProperty("lealone.ignore.unknown.settings", "true");
         Lealone.main(args);
     }
 }
