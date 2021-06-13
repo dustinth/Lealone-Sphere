@@ -1,0 +1,2 @@
+org.lealone.plugins.sphere.mysql.jdbc.LealoneMySQLDatabaseType
+org.lealone.plugins.sphere.postgresql.jdbc.LealonePostgreSQLDatabaseType
