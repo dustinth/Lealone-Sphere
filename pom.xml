@@ -36,10 +36,8 @@
             <artifactId>lealone-sql</artifactId>
             <version>${project.version}</version>
             <scope>provided</scope>
-
         </dependency>
         <dependency>
-
             <groupId>org.lealone</groupId>
             <artifactId>lealone-main</artifactId>
             <version>${project.version}</version>
@@ -48,7 +46,6 @@
         
         <!-- 明确用新版本，避免冲突 -->
         <dependency>
-
 		    <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
             <version>1.28</version>
